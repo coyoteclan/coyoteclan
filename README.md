@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Most Used Languages](https://top-languages.aljoudi.ca/api/top-langs/image?username=coyoteclan&format=list)
-
 ![Metrics](https://raw.githubusercontent.com/coyoteclan/coyoteclan/6fe5e121ee21824f98e66f40d30fba3aec7e646c/github-metrics.svg)
+
+![Most Used Languages](https://top-languages.aljoudi.ca/api/top-langs/image?username=coyoteclan&format=list)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
