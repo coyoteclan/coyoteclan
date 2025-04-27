@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coyoteclan"/>
 
-![Metrics](https://raw.githubusercontent.com/coyoteclan/coyoteclan/metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/coyoteclan/coyoteclan/6fe5e121ee21824f98e66f40d30fba3aec7e646c/github-metrics.svg)
