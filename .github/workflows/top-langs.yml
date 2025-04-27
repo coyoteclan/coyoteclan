@@ -3,7 +3,7 @@ name: Create Top Languages
 on:
   push:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: "0 */24 * * *"
 
 jobs:
   build-and-run:
@@ -17,7 +17,7 @@ jobs:
           botName: "Jan Galek"
           botEmail: "ghome.cz@gmail.com"
           user: "JanGalek"
-          limit: 6
+          limit: 10
           ignoredOrgsFlag: "wowmua"
           ignoredReposFlag: "wowmua/Maps"
         env:
