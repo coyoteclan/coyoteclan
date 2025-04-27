@@ -9,6 +9,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment:
+      name: metrics
     permissions:
       contents: write
     steps:
@@ -28,7 +30,7 @@ jobs:
           filename: github-metrics.svg
           committer_branch: metrics
           user: coyoteclan
-          config_timezone: Australia/Sydney
+          config_timezone: Asia/Karachi
           template: classic
           base: header, repositories, activity, community
           plugin_code: yes
