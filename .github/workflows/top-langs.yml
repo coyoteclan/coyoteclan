@@ -15,7 +15,7 @@ jobs:
         uses: gouef/githubtoplanguages@main
         with:
           user: "coyoteclan"
-          limit: 10
+          limit: 6
           ignoredOrgsFlag: ""
           ignoredReposFlag: ""
         env:
