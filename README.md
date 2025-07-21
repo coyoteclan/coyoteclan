@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![Metrics](https://raw.githubusercontent.com/coyoteclan/coyoteclan/main/github-metrics.svg)
 
-![Most Used Languages](https://top-languages.aljoudi.ca/api/top-langs/image?username=coyoteclan&format=list)
+<!--![Most Used Languages](https://top-languages.aljoudi.ca/api/top-langs/image?username=coyoteclan&format=list) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
