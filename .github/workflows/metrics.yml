@@ -19,6 +19,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_topics: yes
+          plugin_topics_limit: 16
           plugin_topics_mode: icons
           plugin_habits: yes
           plugin_habits_facts: yes
