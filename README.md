@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://raw.githubusercontent.com/coyoteclan/coyoteclan/main/github-metrics.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coyoteclan/coyoteclan/main/github-metrics.svg" alt="Metrics" />
+</p>
 
 <!--![Most Used Languages](https://top-languages.aljoudi.ca/api/top-langs/image?username=coyoteclan&format=list) -->
 
