@@ -1,8 +1,8 @@
 # INFO
-I have moved most of my active projects to GitLab. Contribute, follow updates or start repositories [here](https://gitlab.com/kazam0180)
+### I have moved most of my active projects to GitLab. Contribute, follow updates or start repositories [here](https://gitlab.com/kazam0180)
 
 
-
+---
 <!--
 **coyoteclan/coyoteclan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
