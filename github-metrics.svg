@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1568 Commits
+                            1569 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.168019414352" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="153.168019414352" y="0" width="126.73278069183827" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="279.9008001061902" y="0" width="95.24371461075711" height="8" fill="#FF6800"/>
-                    <rect mask="url(#languages-bar)" x="375.14451471694736" y="0" width="37.92203960348899" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="413.06655432043635" y="0" width="18.883948893045762" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="431.95050321348214" y="0" width="17.531184375024797" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="449.48168758850693" y="0" width="5.475767769376659" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.9574553578836" y="0" width="5.042544642116418" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.16315776185135" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="153.16315776185135" y="0" width="126.7287581109985" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="279.89191587284984" y="0" width="95.24069151334369" height="8" fill="#FF6800"/>
+                    <rect mask="url(#languages-bar)" x="375.1326073861935" y="0" width="37.920835933301355" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="413.0534433194949" y="0" width="18.88334950423269" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="431.93679282372756" y="0" width="17.530627923836867" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="449.4674207475644" y="0" width="5.4755939649482235" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.9430147125126" y="0" width="5.056985287487331" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -251,7 +251,7 @@
                             </div>
                             <small>
                                 <div>574 kB</div>
-                                <div>20.71%</div>
+                                <div>20.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -324,7 +324,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>30.3 kB</div>
+                                <div>30.4 kB</div>
                                 <div>1.1%</div>
                             </small>
                         </div>
@@ -2394,7 +2394,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jun 2026, 06:58:55 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2026, 18:05:49 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
